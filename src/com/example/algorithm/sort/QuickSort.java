@@ -1,8 +1,5 @@
 package com.example.algorithm.sort;
 
-/**
- * Created by niuyu on 7/3/16.
- */
 public class QuickSort {
 
     private static int getMiddle(int[] a, int low, int high) {

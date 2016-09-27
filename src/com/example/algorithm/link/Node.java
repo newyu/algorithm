@@ -1,8 +1,5 @@
 package com.example.algorithm.link;
 
-/**
- * Created by niuyu on 7/13/16.
- */
 public class Node {
 
     public int value;
